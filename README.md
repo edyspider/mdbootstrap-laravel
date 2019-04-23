@@ -41,7 +41,7 @@ npm run dev
 ```
 
 ### Step 6:
-Add resources to your page ````<head>````.
+In your master layout add:
 
 ```html
 <script src="{{ asset('js/app.js') }}"></script>
