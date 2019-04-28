@@ -63,7 +63,7 @@ See also the list of [contributors](https://github.com/edyspider/mdbootstrap-lar
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](https://github.com/edyspider/mdbootstrap-laravel/blob/master/LICENSE)**
-- Copyright 2018 © <a href="https://github.com/edyspider" target="_blank">EdySpider</a>.
+- Copyright 2019 © <a href="https://github.com/edyspider" target="_blank">EdySpider</a>.
 
 ---
 
